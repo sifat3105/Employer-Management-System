@@ -103,10 +103,10 @@ python manage.py runserver
 ## Folder Structure
 
 ```
-employer-management/
+employer-management-syatem/
 ├── accounts/            # Handles user registration, login, logout
 ├── employers/           # Manages employer-related CRUD
-├── employer_management/ # Project config and settings
+├── project_root/ # Project config and settings
 ├── requirements.txt
 └── README.md
 ```
