@@ -32,7 +32,7 @@ Production API is live at: **[https://api.zoyrobd.com](https://api.zoyrobd.com)*
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/employer-management.git
+git clone https://github.com/sifat3105/Employer-Management-System.git
 cd employer-management
 ```
 
@@ -59,13 +59,7 @@ python manage.py makemigrations
 python manage.py migrate
 ```
 
-### 5. Create Superuser (Optional)
-
-```bash
-python manage.py createsuperuser
-```
-
-### 6. Run Development Server
+### 5. Run Development Server
 
 ```bash
 python manage.py runserver
