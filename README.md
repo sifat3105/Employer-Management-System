@@ -2,7 +2,7 @@
 
 A RESTful API project built with Django and Django REST Framework, featuring user authentication with JWT and an employer management system. The project is organized into two Django apps: `accounts` (for authentication) and `employers` (for employer data management).
 
-Production API is live at: **[https://api.zoyrobd.com](https://api.zoyrobd.com)**
+Production API is live at: **[https://api.zoyrobd.com/ endpoint](https://api.zoyrobd.com)**
 
 ---
 
